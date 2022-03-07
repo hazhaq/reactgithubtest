@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/reactgithubtest/static/css/main.073c9b0a.css",
-    "main.js": "/reactgithubtest/static/js/main.97899b8d.js",
+    "main.js": "/reactgithubtest/static/js/main.2d452a6c.js",
     "static/js/787.19664728.chunk.js": "/reactgithubtest/static/js/787.19664728.chunk.js",
     "static/media/logo.svg": "/reactgithubtest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reactgithubtest/index.html",
     "main.073c9b0a.css.map": "/reactgithubtest/static/css/main.073c9b0a.css.map",
-    "main.97899b8d.js.map": "/reactgithubtest/static/js/main.97899b8d.js.map",
+    "main.2d452a6c.js.map": "/reactgithubtest/static/js/main.2d452a6c.js.map",
     "787.19664728.chunk.js.map": "/reactgithubtest/static/js/787.19664728.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.97899b8d.js"
+    "static/js/main.2d452a6c.js"
   ]
 }
